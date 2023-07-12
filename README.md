@@ -2,7 +2,7 @@
 
 This repository consists of several small, standalone scripts that perform specific tasks, ranging from simple games to utility scripts. The examples given are intended to showcase various aspects of Python programming.
 
-Acronyms Finder
+### Acronyms Finder
 
 The script finds acronyms in the provided text. It's an excellent example to understand how Python can work with strings and text manipulation.
 
